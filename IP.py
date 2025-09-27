@@ -3,7 +3,7 @@
 # Methods: linear negative, contrast stretching, piecewise linear,
 # log transform, gamma transform, histogram equalization, adaptive HE, CLAHE
 # Works with grayscale and color images (per-channel or luminance-based where appropriate).
-
+pip install opencv-python
 import io
 import numpy as np
 import cv2
