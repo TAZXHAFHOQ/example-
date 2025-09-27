@@ -1,5 +1,5 @@
 streamlit>=1.36.0
-opencv-python
+opencv-python>=4.10.0.84
 Pillow>=10.4.0
 numpy>=1.26.4
 matplotlib>=3.9.2
